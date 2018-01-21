@@ -9,6 +9,8 @@ source_url: '/read/subject/index.md'
 
 ## Ubuntu 18.04 (Bionic Beaver)
 
+* [Release Cdimage](/note-ubuntu-18.04/read/subject/release-cdimage)
+
 
 ## 過往問答主題索引
 

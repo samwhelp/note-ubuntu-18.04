@@ -14,3 +14,8 @@ source_url: '/index.md'
 ## 前言
 
 關於「[Ubuntu 18.04 (Bionic Beaver)](https://wiki.ubuntu.com/BionicBeaver)」的探索紀錄。
+
+
+## Release Cdimage
+
+* [Ubuntu 18.04 LTS (Bionic Beaver) Daily Build](/note-ubuntu-18.04/read/subject/release-cdimage/daily-build/)
