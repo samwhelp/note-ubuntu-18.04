@@ -12,7 +12,7 @@ source_url: '/read/subject/release-cdimage/index.md'
 
 ## 相關討論
 
-* [Ubuntu 18.04 LTS (Bionic Beaver) Daily Build](/note-ubuntu-18.04/read/subject/release-cdimage/daily-build/)
+* [Ubuntu 18.04 LTS (Bionic Beaver) Daily Build](/note-ubuntu-18.04/read/subject/release-cdimage/daily-build)
 
 
 ## 相關連結
