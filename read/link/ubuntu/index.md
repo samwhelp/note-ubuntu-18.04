@@ -45,7 +45,9 @@ source_url: '/read/link/ubuntu/index.md'
 
 * [Releases](https://wiki.ubuntu.com/Releases)
 * [BionicBeaver](https://wiki.ubuntu.com/BionicBeaver)
-
+* BionicBeaver / [Release Notes](https://wiki.ubuntu.com/BionicBeaver/ReleaseNotes)
+* BionicBeaver / [Release Schedule](https://wiki.ubuntu.com/BionicBeaver/ReleaseSchedule)
+* BionicBeaver / [Release Task Signup](https://wiki.ubuntu.com/BionicBeaver/ReleaseTaskSignup)
 
 ## Wikipidia
 
