@@ -21,3 +21,8 @@ source_url: '/read/link/index.md'
 ## Debian
 
 * [Debian 相關連結](/note-ubuntu-18.04/read/link/debian/)
+
+
+## 相關連結
+
+* [其他相關連結](/note-ubuntu-18.04/read/link/associate/)
