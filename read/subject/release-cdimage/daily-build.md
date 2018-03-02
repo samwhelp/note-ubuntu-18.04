@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ubuntu 18.04 LTS (Bionic Beaver) Daily Build
+date: 2018-01-21 13:14:16 +0800
 description: >
   Ubuntu 18.04 LTS (Bionic Beaver) Daily Build。
 parent:

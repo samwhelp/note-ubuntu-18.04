@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Static Site Generator
+date: 2018-03-02 07:21:05 +0800
 description: >
   Static Site Generator。
 parent:

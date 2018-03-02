@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ubuntu Release Cdimage
+date: 2018-01-21 13:14:16 +0800
 description: >
   Ubuntu Release Cdimage。
 parent:

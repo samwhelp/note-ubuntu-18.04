@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Linux 台灣社群
+date: 2018-03-02 07:21:05 +0800
+description: >
+  Linux 台灣社群。
 parent:
   title: 連結
   url: '/read/link/'
