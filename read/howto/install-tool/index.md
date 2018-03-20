@@ -14,6 +14,11 @@ source_url: '/read/howto/install-tool/index.md'
 * [Atom](atom)
 
 
+## 網頁瀏覽器
+
+* [Chrome](chrome)
+
+
 ## 下載工具
 
 * [youtube-dl](youtube-dl)
