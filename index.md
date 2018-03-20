@@ -18,9 +18,14 @@ source_url: '/index.md'
 
 ## Release Cdimage
 
-* [Ubuntu 18.04 LTS (Bionic Beaver) Daily Build](/note-ubuntu-18.04/read/subject/release-cdimage/daily-build)
+* [Ubuntu 18.04 LTS (Bionic Beaver) Daily Build](read/subject/release-cdimage/daily-build)
 
 
 ## Project
 
 * [play-ubuntu-18.04-plan](https://github.com/samwhelp/play-ubuntu-18.04-plan)
+
+
+## 安裝完畢後的設定
+
+* [簡易導覽安裝後如何設定](read/howto/install/)
