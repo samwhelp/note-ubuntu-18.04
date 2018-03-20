@@ -16,3 +16,4 @@ source_url: '/read/howto/install/index.md'
 
 
 * [locale](locale)
+* [apt sources.list](apt-sources-list)
