@@ -27,17 +27,17 @@ source_url: '/read/howto/install/index.md'
 
 ## 文字編輯器
 
-* [vim](../vim)
+* [vim](../install-tool/vim)
 
 
 ## git
 
-* [git](../git)
+* [git](../install-tool/git)
 
 
 ## tree
 
-* [tree](../tree)
+* [tree](../install-tool/tree)
 
 
 ## [其他工具](../install-tool)
