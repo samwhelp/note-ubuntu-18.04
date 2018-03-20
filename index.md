@@ -29,3 +29,4 @@ source_url: '/index.md'
 ## 安裝完畢後的設定
 
 * [簡易導覽安裝後如何設定](read/howto/install/)
+* [工具的安裝與設定](read/howto/install-tool/)

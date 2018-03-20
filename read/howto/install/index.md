@@ -23,3 +23,6 @@ source_url: '/read/howto/install/index.md'
 
 * [font](font)
 * [im](im)
+
+
+## [其他工具](../install-tool)
