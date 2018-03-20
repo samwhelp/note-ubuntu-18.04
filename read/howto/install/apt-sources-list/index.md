@@ -7,7 +7,7 @@ description: >
 parent:
   title: 如何設定
   url: '/read/howto/install'
-source_url: '/read/howto/install/locale/index.md'
+source_url: '/read/howto/install/apt-sources-list/index.md'
 ---
 
 

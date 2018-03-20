@@ -7,6 +7,7 @@ description: >
 source_url: '/read/howto/install/index.md'
 ---
 
+
 ## 前提
 
 我個人使用的環境，通常是安裝「英文版」，爾後再做設定。
@@ -14,6 +15,11 @@ source_url: '/read/howto/install/index.md'
 
 ## 環境設定
 
-
 * [locale](locale)
 * [apt sources.list](apt-sources-list)
+
+
+## 字型與輸入法
+
+* [font](font)
+* [im](im)
