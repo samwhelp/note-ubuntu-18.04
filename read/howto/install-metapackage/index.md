@@ -12,3 +12,4 @@ source_url: '/read/howto/install-metapackage/index.md'
 
 
 * [build-essential](build-essential)
+* [ubuntu-restricted-extras](ubuntu-restricted-extras)
