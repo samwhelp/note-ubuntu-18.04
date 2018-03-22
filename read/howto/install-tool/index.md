@@ -36,6 +36,7 @@ source_url: '/read/howto/install-tool/index.md'
 * [vlc](vlc)
 * [smplayer](smplayer)
 * [mpv](mpv)
+* [mplayer](mplayer)
 
 
 ## Audio
