@@ -11,6 +11,7 @@ source_url: '/read/howto/install-tool/index.md'
 ## Terminal
 
 * [gnome-terminal](gnome-terminal)
+* [qterminal](qterminal)
 
 
 ## 文字編輯器
