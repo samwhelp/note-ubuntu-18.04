@@ -8,6 +8,11 @@ source_url: '/read/howto/install-tool/index.md'
 ---
 
 
+## Terminal
+
+* [gnome-terminal](gnome-terminal)
+
+
 ## 文字編輯器
 
 * [設定「gedit」辨識「Big5」編碼](gedit)
