@@ -40,4 +40,7 @@ source_url: '/read/howto/install/index.md'
 * [tree](../install-tool/tree)
 
 
+## [MetaPackages](../install-metapackage)
+
+
 ## [其他工具](../install-tool)
