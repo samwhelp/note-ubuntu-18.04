@@ -59,6 +59,11 @@ source_url: '/read/howto/install-tool/index.md'
 * [gstreamer](gstreamer)
 
 
+## Media Info
+
+* [mediainfo](mediainfo)
+
+
 ## PHP
 
 * [composer](composer)
