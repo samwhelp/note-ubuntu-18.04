@@ -18,6 +18,7 @@ source_url: '/read/howto/install-tool/index.md'
 
 * [gedit](gedit)
 * [atom](atom)
+* [mousepad](mousepad)
 
 
 ## 網頁瀏覽器
