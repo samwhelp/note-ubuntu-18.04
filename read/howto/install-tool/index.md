@@ -10,7 +10,7 @@ source_url: '/read/howto/install-tool/index.md'
 
 ## Terminal
 
-* [gnome-terminal](gnome-terminal/)
+* [gnome-terminal](gnome-terminal)
 
 
 ## 文字編輯器
@@ -26,6 +26,7 @@ source_url: '/read/howto/install-tool/index.md'
 
 ## 下載工具
 
+* [filezilla](filezilla)
 * [youtube-dl](youtube-dl)
 
 
