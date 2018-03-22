@@ -23,7 +23,7 @@ source_url: '/index.md'
 
 ## Project
 
-* [play-ubuntu-18.04-plan](https://github.com/samwhelp/play-ubuntu-18.04-plan)
+* [Ubuntu 18.04 (Bionic Beaver) 安裝腳本](https://github.com/samwhelp/play-ubuntu-18.04-plan)
 
 
 ## 安裝完畢後的設定
