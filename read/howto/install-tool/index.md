@@ -34,6 +34,7 @@ source_url: '/read/howto/install-tool/index.md'
 ## Graphic
 
 * [gpicview](gpicview)
+* [lximage-qt](lximage-qt)
 
 
 ## Video

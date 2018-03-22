@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 安裝 gpicview
-date: 2018-03-20 21:37:58 +0800
+date: 2018-03-21 17:20:14 +0800
 description: >
   安裝 gpicview
 parent:
