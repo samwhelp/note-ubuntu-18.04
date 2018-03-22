@@ -23,3 +23,9 @@ $ sudo apt-get install smplayer
 ## Package
 
 * [smplayer](https://packages.ubuntu.com/bionic/smplayer)
+
+
+## 相關討論
+
+* [#6 回覆: MP4檔案播放問題](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=359478#forumpost359478)
+* [關於「m3u」和「mpv」和「smplayer」的操作使用](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=357582#forumpost357582)

@@ -23,3 +23,8 @@ $ sudo apt-get install vlc
 ## Package
 
 * [vlc](https://packages.ubuntu.com/bionic/vlc)
+
+
+## 相關討論
+
+* [#6 回覆: MP4檔案播放問題](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=359478#forumpost359478)
