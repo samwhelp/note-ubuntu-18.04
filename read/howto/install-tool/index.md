@@ -41,6 +41,8 @@ source_url: '/read/howto/install-tool/index.md'
 
 ## Audio
 
+* [audacious](audacious)
+
 
 ## Radio
 
