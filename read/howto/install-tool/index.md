@@ -49,9 +49,14 @@ source_url: '/read/howto/install-tool/index.md'
 * [radiotray](radiotray)
 
 
-## ffmpeg
+## FFmpeg
 
 * [ffmpeg](ffmpeg)
+
+
+## GStreamer
+
+* [gstreamer](gstreamer)
 
 
 ## PHP
