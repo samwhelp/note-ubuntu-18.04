@@ -31,6 +31,11 @@ source_url: '/read/howto/install-tool/index.md'
 * [youtube-dl](youtube-dl)
 
 
+## Graphic
+
+* [gpicview](gpicview)
+
+
 ## Video
 
 * [vlc](vlc)
