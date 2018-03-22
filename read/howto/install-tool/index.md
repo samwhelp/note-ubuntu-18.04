@@ -33,6 +33,7 @@ source_url: '/read/howto/install-tool/index.md'
 
 ## Video
 
+* [vlc](vlc)
 * [smplayer](smplayer)
 * [mpv](mpv)
 
