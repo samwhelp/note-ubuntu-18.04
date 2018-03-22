@@ -15,13 +15,14 @@ source_url: '/read/howto/install-tool/index.md'
 
 ## 文字編輯器
 
-* [設定「gedit」辨識「Big5」編碼](gedit)
-* [Atom](atom)
+* [gedit](gedit)
+* [atom](atom)
 
 
 ## 網頁瀏覽器
 
-* [Chrome](chrome)
+* [chromium-browser](chromium-browser)
+* [chrome](chrome)
 
 
 ## 下載工具
