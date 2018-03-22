@@ -48,6 +48,12 @@ source_url: '/read/howto/install-tool/index.md'
 
 * [radiotray](radiotray)
 
+
+## ffmpeg
+
+* [ffmpeg](ffmpeg)
+
+
 ## PHP
 
 * [composer](composer)
