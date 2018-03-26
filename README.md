@@ -6,3 +6,4 @@
 ## Project
 
 * [Ubuntu 18.04 (Bionic Beaver) 安裝腳本](https://github.com/samwhelp/play-ubuntu-18.04-plan)
+* [Ubuntu 18.04 (Bionic Beaver) PPA](https://github.com/samwhelp/play-ubuntu-18.04-ppa)
