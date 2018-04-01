@@ -13,7 +13,12 @@ source_url: '/read/project/play-ubuntu-18.04-plan/play-locale/index.md'
 
 ## 專案
 
-* [play-locale](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/plan/env-full/play-locale)
+* [play-ubuntu-18.04-plan/plan/env-full/play-locale](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/plan/env-full/play-locale)
+
+
+## Prototype
+
+* [play-ubuntu-18.04-plan/prototype/env-basic/locale](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/env-basic/locale)
 
 
 ## 操作步驟

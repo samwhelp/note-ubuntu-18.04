@@ -23,8 +23,8 @@ source_url: '/index.md'
 
 ## Project ([導覽](read/project))
 
-* [Ubuntu 18.04 (Bionic Beaver) 安裝腳本](https://github.com/samwhelp/play-ubuntu-18.04-plan)
-* [Ubuntu 18.04 (Bionic Beaver) PPA](https://github.com/samwhelp/play-ubuntu-18.04-ppa)
+* [Ubuntu 18.04 (Bionic Beaver) 安裝腳本](https://github.com/samwhelp/play-ubuntu-18.04-plan) ([說明](read/project/play-ubuntu-18.04-plan))
+* [Ubuntu 18.04 (Bionic Beaver) PPA](https://github.com/samwhelp/play-ubuntu-18.04-ppa) ([說明](read/project/play-ubuntu-18.04-ppa))
 
 ## 安裝完畢後的設定
 
