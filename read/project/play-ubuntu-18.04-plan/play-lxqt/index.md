@@ -94,7 +94,7 @@ $ mod-lxqt help
 
 顯示
 
-
+```
 Usage:
 
 $ mod-lxqt [command]
