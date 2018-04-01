@@ -27,3 +27,8 @@ source_url: '/read/howto/install/im/index.md'
 ## 更多參考
 
 * [[索引] 中文輸入](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=333556#forumpost333556)
+
+
+## 相關工具
+
+* [play-im](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/plan/im-full/play-im)

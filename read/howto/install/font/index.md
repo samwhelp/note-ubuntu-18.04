@@ -40,3 +40,8 @@ source_url: '/read/howto/install/font/index.md'
 
 * [[索引] 字型安裝設定](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=333554#forumpost333554)
 * [字型安裝與設定](http://samwhelp.github.io/book-ubuntu-qna/read/howto/configure-font/)
+
+
+## 相關工具
+
+* [play-font](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/plan/font-full/play-font)
