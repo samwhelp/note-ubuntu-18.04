@@ -13,11 +13,14 @@ source_url: '/read/project/play-ubuntu-18.04-plan/play-im/index.md'
 
 ## 專案
 
-* [play-im](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/plan/im-full/play-im)
+* [play-ubuntu-18.04-plan/plan/im-full/play-im](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/plan/im-full/play-im)
 
 ## Prototype
 
-* [play-ubuntu-18.04-plan/prototype/env-basic/im](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/env-basic/im)
+* [play-ubuntu-18.04-plan/prototype/im-basic/gcin](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/im-basic/gcin)
+* [play-ubuntu-18.04-plan/prototype/im-basic/hime](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/im-basic/hime)
+* [play-ubuntu-18.04-plan/prototype/im-basic/fcitx-chewing](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/im-basic/fcitx-chewing)
+* [play-ubuntu-18.04-plan/prototype/im-basic/ibus-chewing](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/im-basic/ibus-chewing)
 
 
 ## 操作步驟
