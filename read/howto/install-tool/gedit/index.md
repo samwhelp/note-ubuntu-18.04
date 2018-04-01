@@ -24,6 +24,12 @@ source_url: '/read/howto/install-tool/gedit/index.md'
 $ gsettings set org.gnome.gedit.preferences.encodings candidate-encodings "['UTF-8', 'BIG5', 'BIG5-HKSCS', 'EUC-TW', 'GB18030', 'GB2312', 'GBK', 'CURRENT', 'ISO-8859-15', 'UTF-16']"
 ```
 
+
 ## 相關討論
 
 * [#3 回覆: GEDIT復製WIN7的TXT檔案打開後變亂碼](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=354332#forumpost354332)
+
+
+## 相關工具
+
+* [play-tool](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/plan/tool-full/play-tool)
