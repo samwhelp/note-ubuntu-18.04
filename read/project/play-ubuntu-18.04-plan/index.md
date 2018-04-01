@@ -20,6 +20,7 @@ source_url: '/read/project/play-ubuntu-18.04-plan/index.md'
 
 * [play-locale](play-locale)
 * [play-apt](play-apt)
+* [play-font](play-font)
 * [play-im](play-im)
 * [play-tool](play-tool)
 * [play-software](play-software)
