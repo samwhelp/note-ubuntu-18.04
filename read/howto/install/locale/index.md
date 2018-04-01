@@ -107,8 +107,14 @@ $ check-language-support -l zh_TW
 ## 相關討論
 
 * [[索引] 文件編碼](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=333558#forumpost333558)
+* [[索引] 套件操作實務](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=333562#forumpost333562)
 * [#10 回覆: 安裝 ubuntu server 1604時發生這樣的問題](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=353588#forumpost353588)
 * [#11  回覆: 安裝 ubuntu server 1604時發生這樣的問題](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=353592#forumpost353592)
 * [#4 回覆: ubuntun 14.04, psql 無法使用](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358364#forumpost358364)
 * [#4 回覆: 手機照片無法預覽](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=347786#forumpost347786)
 * [#8 回覆: Kubuntu 15.04 (Plasma 5.0) Fcitx、gcin輸入法無法打中文](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=342202#forumpost342202)
+
+
+## 相關工具
+
+* [play-locale](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/plan/env-full/play-locale)
