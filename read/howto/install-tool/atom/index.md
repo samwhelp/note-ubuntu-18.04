@@ -14,3 +14,8 @@ source_url: '/read/howto/install-tool/atom/index.md'
 ## 範例 Script
 
 * [play-ubuntu-18.04-plan/prototype/tool-basic/atom](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/tool-basic/atom)
+
+
+## 相關工具
+
+* [play-software](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/plan/tool-full/play-software)
