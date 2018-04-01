@@ -14,3 +14,13 @@ source_url: '/read/project/play-ubuntu-18.04-plan/index.md'
 ## 專案
 
 * [play-ubuntu-18.04-plan](https://github.com/samwhelp/play-ubuntu-18.04-plan)
+
+
+## Plan
+
+* [play-locale](play-locale)
+* [play-apt](play-apt)
+* [play-im](play-im)
+* [play-tool](play-tool)
+* [play-software](play-software)
+* [play-lxqt](play-lxqt)
