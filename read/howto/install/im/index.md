@@ -27,6 +27,7 @@ source_url: '/read/howto/install/im/index.md'
 ## 更多參考
 
 * [[索引] 中文輸入](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=333556#forumpost333556)
+* [#2 回覆: Ubuntu 17.10 Desktop 64bit 沒有 fcitx 輸入法](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=359522#forumpost359522)
 
 
 ## 相關工具
