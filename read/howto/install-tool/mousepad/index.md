@@ -28,3 +28,8 @@ $ sudo apt-get install mousepad
 ## Package
 
 * [mousepad](https://packages.ubuntu.com/bionic/mousepad)
+
+
+## 相關工具
+
+* [play-tool](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/plan/tool-full/play-tool/prj/play-tool/app/usr/share/play-tool)
