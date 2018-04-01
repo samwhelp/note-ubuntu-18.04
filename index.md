@@ -21,7 +21,7 @@ source_url: '/index.md'
 * [Ubuntu 18.04 LTS (Bionic Beaver) Daily Build](read/subject/release-cdimage/daily-build)
 
 
-## Project
+## Project ([導覽](read/project))
 
 * [Ubuntu 18.04 (Bionic Beaver) 安裝腳本](https://github.com/samwhelp/play-ubuntu-18.04-plan)
 * [Ubuntu 18.04 (Bionic Beaver) PPA](https://github.com/samwhelp/play-ubuntu-18.04-ppa)
