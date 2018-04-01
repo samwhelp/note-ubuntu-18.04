@@ -118,6 +118,10 @@ Manpage:
 
 $ man mod-xfce
 
+Debug:
+
+$ export DEBUG_PLAY_XFCE=true
+
 ```
 
 

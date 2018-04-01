@@ -118,6 +118,10 @@ Manpage:
 
 $ man mod-i3
 
+Debug:
+
+$ export DEBUG_PLAY_I3=true
+
 ```
 
 

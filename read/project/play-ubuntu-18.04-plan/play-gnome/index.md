@@ -118,6 +118,10 @@ Manpage:
 
 $ man mod-gnome
 
+Debug:
+
+$ export DEBUG_PLAY_GNOME=true
+
 ```
 
 

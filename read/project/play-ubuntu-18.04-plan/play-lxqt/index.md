@@ -94,7 +94,6 @@ $ mod-lxqt help
 
 顯示
 
-```
 
 Usage:
 
@@ -117,6 +116,10 @@ $ mod-lxqt conf-reset
 Manpage:
 
 $ man mod-lxqt
+
+Debug:
+
+$ export DEBUG_PLAY_LXQT=true
 
 ```
 
