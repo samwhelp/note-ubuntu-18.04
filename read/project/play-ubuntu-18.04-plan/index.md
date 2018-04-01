@@ -16,7 +16,15 @@ source_url: '/read/project/play-ubuntu-18.04-plan/index.md'
 * [play-ubuntu-18.04-plan](https://github.com/samwhelp/play-ubuntu-18.04-plan)
 
 
-## Plan
+## Desktop
+
+* [play-i3](play-i3)
+* [play-lxqt](play-lxqt)
+* [play-xfce](play-xfce)
+* [play-gnome](play-gnome)
+
+
+## Tool
 
 * [play-locale](play-locale)
 * [play-apt](play-apt)
@@ -24,4 +32,3 @@ source_url: '/read/project/play-ubuntu-18.04-plan/index.md'
 * [play-im](play-im)
 * [play-tool](play-tool)
 * [play-software](play-software)
-* [play-lxqt](play-lxqt)

@@ -13,4 +13,4 @@ source_url: '/read/project/play-ubuntu-18.04-plan/play-lxqt/index.md'
 
 ## 專案
 
-* [play-lxqt](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/plan/de-full/play-lxqt)
+* [play-ubuntu-18.04-plan/plan/de-basic/play-lxqt](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/plan/de-basic/play-lxqt)
