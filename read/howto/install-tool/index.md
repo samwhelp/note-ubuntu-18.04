@@ -37,6 +37,7 @@ source_url: '/read/howto/install-tool/index.md'
 
 * [filezilla](filezilla)
 * [youtube-dl](youtube-dl)
+* [you-get](you-get)
 
 
 ## Graphic
