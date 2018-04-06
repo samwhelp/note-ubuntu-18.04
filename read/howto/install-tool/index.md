@@ -14,6 +14,11 @@ source_url: '/read/howto/install-tool/index.md'
 * [qterminal](qterminal)
 
 
+## Shell
+
+* [bash-it](bash-it)
+
+
 ## 文字編輯器
 
 * [gedit](gedit)
