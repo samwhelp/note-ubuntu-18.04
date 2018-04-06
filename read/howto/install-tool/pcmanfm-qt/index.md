@@ -7,7 +7,7 @@ description: >
 parent:
   title: 如何設定
   url: '/read/howto/install'
-source_url: '/read/howto/install/pcmanfm-qt/index.md'
+source_url: '/read/howto/install-tool/pcmanfm-qt/index.md'
 ---
 
 
