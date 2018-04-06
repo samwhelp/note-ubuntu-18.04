@@ -27,6 +27,11 @@ source_url: '/read/howto/install-tool/index.md'
 * [mousepad](mousepad)
 
 
+## 檔案管理器
+
+* [pcmanfm-qt](pcmanfm-qt)
+
+
 ## 網頁瀏覽器
 
 * [chromium-browser](chromium-browser)
