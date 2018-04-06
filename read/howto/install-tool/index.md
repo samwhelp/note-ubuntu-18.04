@@ -17,6 +17,7 @@ source_url: '/read/howto/install-tool/index.md'
 ## Shell
 
 * [bash-it](bash-it)
+* [oh-my-zsh](oh-my-zsh)
 
 
 ## 文字編輯器
