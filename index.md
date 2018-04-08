@@ -26,6 +26,7 @@ source_url: '/index.md'
 * [簡易導覽安裝後如何設定](read/howto/install)
 * [工具的安裝與設定](read/howto/install-tool)
 * [MetaPackage](read/howto/install-metapackage)
+* [程式語言平台的安裝與設定](read/howto/install-platform)
 
 
 ## Project ([導覽](read/project))
