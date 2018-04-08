@@ -84,11 +84,6 @@ source_url: '/read/howto/install-tool/index.md'
 * [mediainfo](mediainfo)
 
 
-## PHP
-
-* [composer](composer)
-
-
 ## X11
 
 * [compton](compton)
