@@ -89,7 +89,7 @@ http://cdimage.ubuntu.com/ubuntu-budgie/releases/18.04/release/ubuntu-budgie-18.
 http://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/release/ubuntu-mate-18.04-desktop-amd64.iso
 ```
 
-上面的列表，可以存成一個檔案「iso.list」。
+上面的列表，可以存成一個檔案「[iso.list](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/release-cdimage/download-list/iso.list)」。
 
 然後執行
 
