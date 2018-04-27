@@ -10,6 +10,10 @@ parent:
 source_url: '/read/subject/release-cdimage/daily-build.md'
 ---
 
+## 注意
+
+目前已經「Released」，所以請參考另一篇「 [Ubuntu 18.04 LTS (Bionic Beaver) Release Cdimage](release-cdimage)」。
+
 
 ## 下載頁面
 
