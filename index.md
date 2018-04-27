@@ -18,7 +18,7 @@ source_url: '/index.md'
 
 ## Release Cdimage
 
-* [Ubuntu 18.04 LTS (Bionic Beaver) Daily Build](read/subject/release-cdimage/daily-build)
+* [Ubuntu 18.04 LTS (Bionic Beaver) Release Cdimage](read/subject/release-cdimage/release-cdimage)
 
 
 ## 安裝完畢後的設定
