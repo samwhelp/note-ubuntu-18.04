@@ -82,8 +82,17 @@ ubuntu-18.04-desktop-amd64.iso: OK
 ```
 http://releases.ubuntu.com/18.04/ubuntu-18.04-desktop-amd64.iso
 http://releases.ubuntu.com/18.04/ubuntu-18.04-live-server-amd64.iso
+http://cdimage.ubuntu.com/xubuntu/releases/18.04/release/xubuntu-18.04-desktop-amd64.iso
 http://cdimage.ubuntu.com/lubuntu/releases/18.04/release/lubuntu-18.04-desktop-amd64.iso
 http://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04-desktop-amd64.iso
 http://cdimage.ubuntu.com/ubuntu-budgie/releases/18.04/release/ubuntu-budgie-18.04-desktop-amd64.iso
 http://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/release/ubuntu-mate-18.04-desktop-amd64.iso
+```
+
+上面的列表，可以存成一個檔案「iso.list」。
+
+然後執行
+
+``` sh
+$ wget -c -i iso.list
 ```
