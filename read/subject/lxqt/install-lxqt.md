@@ -7,7 +7,7 @@ description: >
 parent:
   title: lxqt
   url: '/read/subject/lxqt'
-source_url: '/read/subject/lxqt/index.md'
+source_url: '/read/subject/lxqt/install-lxqt.md'
 ---
 
 
