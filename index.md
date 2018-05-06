@@ -38,3 +38,4 @@ source_url: '/index.md'
 ## LXQt
 
 * [如何安裝 lxqt](read/subject/lxqt/install-lxqt)
+* [如何設定 lxqt-panel](read/subject/lxqt/config-lxqt-panel)

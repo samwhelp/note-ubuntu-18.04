@@ -14,3 +14,4 @@ source_url: '/read/subject/lxqt/index.md'
 ## 相關討論
 
 * [如何安裝lxqt](install-lxqt)
+* [如何設定lxqt-panel](config-lxqt-panel)
