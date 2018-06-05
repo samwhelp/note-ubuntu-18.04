@@ -77,16 +77,101 @@ LC_MEASUREMENT="zh_TW.UTF-8"
 LC_IDENTIFICATION="zh_TW.UTF-8"
 ```
 
-然後也要執行下面的[指令](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/env-basic/locale/locale-gen.sh)
+接著要登出系統，再登入系統，
+
+然後再執行下面指令
 
 ``` sh
-$ sudo locale-gen zh_TW zh_TW.UTF-8 zh_CN.UTF-8 en_US.UTF-8
+$ locale
 ```
 
-另外有些軟體，也需要安裝相關的「language-pack」，可以執行下面指令，查詢相關的套件。
+有可能會顯示
+
+```
+locale: Cannot set LC_CTYPE to default locale: No such file or directory
+locale: Cannot set LC_MESSAGES to default locale: No such file or directory
+locale: Cannot set LC_ALL to default locale: No such file or directory
+LANG=zh_TW.UTF-8
+LANGUAGE=
+LC_CTYPE="zh_TW.UTF-8"
+LC_NUMERIC=zh_TW.UTF-8
+LC_TIME=zh_TW.UTF-8
+LC_COLLATE="zh_TW.UTF-8"
+LC_MONETARY=zh_TW.UTF-8
+LC_MESSAGES="zh_TW.UTF-8"
+LC_PAPER=zh_TW.UTF-8
+LC_NAME=zh_TW.UTF-8
+LC_ADDRESS=zh_TW.UTF-8
+LC_TELEPHONE=zh_TW.UTF-8
+LC_MEASUREMENT=zh_TW.UTF-8
+LC_IDENTIFICATION=zh_TW.UTF-8
+LC_ALL=
+```
+
+會多出現三行
+
+```
+locale: Cannot set LC_CTYPE to default locale: No such file or directory
+locale: Cannot set LC_MESSAGES to default locale: No such file or directory
+locale: Cannot set LC_ALL to default locale: No such file or directory
+```
+
+只要執行下面的[指令](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/env-basic/locale/locale-gen.sh)，就可以解決
+
+``` sh
+$ sudo locale-gen zh_TW.UTF-8
+```
+
+再執行「locale」，就不會出現上面那三行，會顯示
+
+```
+LANG=zh_TW.UTF-8
+LANGUAGE=
+LC_CTYPE="zh_TW.UTF-8"
+LC_NUMERIC=zh_TW.UTF-8
+LC_TIME=zh_TW.UTF-8
+LC_COLLATE="zh_TW.UTF-8"
+LC_MONETARY=zh_TW.UTF-8
+LC_MESSAGES="zh_TW.UTF-8"
+LC_PAPER=zh_TW.UTF-8
+LC_NAME=zh_TW.UTF-8
+LC_ADDRESS=zh_TW.UTF-8
+LC_TELEPHONE=zh_TW.UTF-8
+LC_MEASUREMENT=zh_TW.UTF-8
+LC_IDENTIFICATION=zh_TW.UTF-8
+LC_ALL=
+```
+
+執行完「sudo locale-gen zh_TW.UTF-8」成功後，接著可以執行下面指令
+
+``` sh
+$ locale -a
+```
+
+會出現一個列表，應該可以看到其中一行是「zh_TW.UTF-8」。
+
+另外「locale-gen」也可以接多個參數，例如可以執行「sudo locale-gen zh_TW zh_TW.UTF-8 zh_CN.UTF-8 en_US.UTF-8」。
+
+
+另外有些軟體，要顯示中文訊息，也需要額外安裝相關的「language-pack」，可以執行下面指令，查詢相關的套件。
 
 ``` sh
 $ apt-cache search language-pack | grep zh
+```
+
+顯示
+
+```
+language-pack-gnome-zh-hans - GNOME translation updates for language Simplified Chinese
+language-pack-gnome-zh-hans-base - GNOME translations for language Simplified Chinese
+language-pack-gnome-zh-hant - GNOME translation updates for language Traditional Chinese
+language-pack-gnome-zh-hant-base - GNOME translations for language Traditional Chinese
+language-pack-zh-hans - translation updates for language Simplified Chinese
+language-pack-zh-hans-base - translations for language Simplified Chinese
+language-pack-zh-hant - translation updates for language Traditional Chinese
+language-pack-zh-hant-base - translations for language Traditional Chinese
+language-pack-kde-zh-hans - KDE translation meta package for language zh_CN
+language-pack-kde-zh-hant - KDE translation meta package for language zh_TW
 ```
 
 或是也可以使用「[check-language-support](http://manpages.ubuntu.com/manpages/bionic/en/man1/check-language-support.1.html)」這個指令，來查詢相關的套件。
