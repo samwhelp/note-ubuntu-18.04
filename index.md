@@ -35,7 +35,9 @@ source_url: '/index.md'
 * [Ubuntu 18.04 (Bionic Beaver) PPA](https://github.com/samwhelp/play-ubuntu-18.04-ppa) ([說明](read/project/play-ubuntu-18.04-ppa))
 
 
-## LXQt
+## LXQt ([導覽](read/subject/lxqt))
 
 * [如何安裝 lxqt](read/subject/lxqt/install-lxqt)
 * [如何設定 lxqt-panel](read/subject/lxqt/config-lxqt-panel)
+
+## Qt ([導覽](read/subject/qt))
