@@ -11,6 +11,11 @@ source_url: '/read/subject/qt/doc/explore-qt5-doc-html.md'
 ---
 
 
+## 前情提要
+
+延續「[如何安裝 Qt 相關文件 (HTML版)](install-qt5-doc-html)」，以下簡易探索「[qt5-doc-html](https://packages.ubuntu.com/bionic/qt5-doc-html)」這個套件。
+
+
 ## 操作步驟
 
 執行
