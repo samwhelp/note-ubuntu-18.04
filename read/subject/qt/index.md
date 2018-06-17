@@ -12,3 +12,7 @@ source_url: '/read/subject/qt/index.md'
 
 
 ## 相關討論
+
+* [如何安裝 Qt 相關文件](doc/install-qt5-doc-all)
+* [如何安裝 Qt 相關文件 (HTML版)](doc/install-qt5-doc-html)
+* [如何安裝 Qt 相關文件 (qch版)](doc/install-qt5-doc)
