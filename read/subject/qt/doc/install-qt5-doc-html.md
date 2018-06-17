@@ -204,3 +204,5 @@ $ firefox $(dpkg -L qtbase5-doc-html | grep '\-manual.html' | grep qmake)
 除了上面建議，可以先從「/usr/share/qt5/doc/qtwidgets/qtwidgets-index.html」閱讀起。
 
 入門時，也建議閱讀「/usr/share/qt5/doc/qmake/qmake-manual.html」，初步了解「[qmake](http://doc.qt.io/qt-5/qmake-running.html)」的用法。
+
+額外的「qt5-doc-html」套件探索，可以參考「[簡易探索 qt5-doc-html](explore-qt5-doc-html)」。
