@@ -21,7 +21,7 @@ $ sudo apt-get install qt5-doc
 
 然後就可以透過「[Qt Assistant](url=http://doc.qt.io/qt-5/qtassistant-index.html)」來觀看文件。
 
-套件是「qt5-assistant」。
+套件是「[qt5-assistant](https://packages.ubuntu.com/bionic/qt5-assistant)」。
 
 指令是「assistant」，路徑在「/usr/lib/qt5/bin/assistant」，並且可以透過「qtchooser」來呼叫。
 
