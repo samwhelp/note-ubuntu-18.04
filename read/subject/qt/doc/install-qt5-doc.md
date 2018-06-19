@@ -25,4 +25,4 @@ $ sudo apt-get install qt5-doc
 
 指令是「assistant」，路徑在「/usr/lib/qt5/bin/assistant」，並且可以透過「qtchooser」來呼叫。
 
-而「Desktop Entry」的路徑，則是在「/usr/share/applications/assistant-qt5.desktop」？
+而「Desktop Entry」的路徑，則是在「/usr/share/applications/assistant-qt5.desktop」。
