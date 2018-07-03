@@ -23,3 +23,8 @@ $ sudo apt-get install pcmanfm-qt
 ## Package
 
 * [pcmanfm-qt](https://packages.ubuntu.com/bionic/pcmanfm-qt)
+
+
+## 相關討論
+
+* [pcmanfm-qt 當作 Desktop 的操作](/note-ubuntu-18.04/read/subject/lxqt/pcmanfm-qt/desktop)
