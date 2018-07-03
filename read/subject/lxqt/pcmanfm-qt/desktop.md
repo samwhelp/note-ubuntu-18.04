@@ -1,13 +1,13 @@
 ---
 layout: page
 title: pcmanfm-qt 當作 Desktop 的操作
-date: 2018-05-06 07:50:35 +0800
+date: 2018-07-03 13:55:42 +0800
 description: >
   pcmanfm-qt 當作 Desktop 的操作
 parent:
   title: lxqt
   url: '/read/subject/lxqt'
-source_url: '/read/subject/lxqt/config-lxqt-panel.md'
+source_url: '/read/subject/lxqt/pcmanfm-qt/desktop.md'
 ---
 
 
