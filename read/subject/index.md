@@ -12,9 +12,15 @@ source_url: '/read/subject/index.md'
 
 * [Release Cdimage](/note-ubuntu-18.04/read/subject/release-cdimage)
 
+
 ## LXQt
 
 * [lxqt](/note-ubuntu-18.04/read/subject/lxqt)
+
+
+## System Info
+
+* [lsb-release](lsb-release)
 
 
 ## 過往問答主題索引
