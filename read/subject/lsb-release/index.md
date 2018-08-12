@@ -11,6 +11,11 @@ source_url: '/read/subject/lsb-release/index.md'
 ---
 
 
-## Command
+## 指令
 
 * [lsb_release](command/lsb_release)
+
+
+## 探索
+
+* [lsb-release](explore/lsb-release)
