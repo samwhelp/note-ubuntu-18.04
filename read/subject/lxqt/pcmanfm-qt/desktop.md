@@ -393,13 +393,14 @@ warty-final-ubuntu.png
 xfce
 ```
 
-執行上面指令，就會發現「桌面背景」更改成「/usr/share/backgrounds/Manhattan_Sunset_by_Giacomo_Ferroni.jpg」這個圖片
-
 舉例執行
 
 ``` sh
 $ pcmanfm-qt -w '/usr/share/backgrounds/Spices_in_Athens_by_Makis_Chourdakis.jpg'
 ```
+
+執行上面指令，就會發現「桌面背景」更改成「/usr/share/backgrounds/Spices_in_Athens_by_Makis_Chourdakis.jpg」這個圖片。
+
 
 舉例執行
 
@@ -407,7 +408,7 @@ $ pcmanfm-qt -w '/usr/share/backgrounds/Spices_in_Athens_by_Makis_Chourdakis.jpg
 $ pcmanfm-qt --set-wallpaper=/usr/share/backgrounds/Manhattan_Sunset_by_Giacomo_Ferroni.jpg
 ```
 
-執行上面指令，就會發現「桌面背景」更改成「/usr/share/backgrounds/Spices_in_Athens_by_Makis_Chourdakis.jpg」這個圖片。
+執行上面指令，就會發現「桌面背景」更改成「/usr/share/backgrounds/Manhattan_Sunset_by_Giacomo_Ferroni.jpg」這個圖片
 
 這個動作，也可以透過「圖形界面程式」來操作，
 
