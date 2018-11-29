@@ -19,3 +19,6 @@ source_url: '/read/subject/lxqt/index.md'
 * [pcmanfm-qt 基本操作](pcmanfm-qt/usage)
 * [探索 pcmanfm-qt (Desktop)](pcmanfm-qt/explore-desktop)
 * [探索 pcmanfm-qt](pcmanfm-qt/explore)
+
+
+## [Theme](lxqt-theme)

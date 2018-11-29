@@ -40,6 +40,7 @@ source_url: '/index.md'
 * [如何安裝 lxqt](read/subject/lxqt/install-lxqt)
 * [如何設定 lxqt-panel](read/subject/lxqt/config-lxqt-panel)
 * [pcmanfm-qt 當作 Desktop 的操作](read/subject/lxqt/pcmanfm-qt/desktop)
+* [如何製作 lxqt theme](read/subject/lxqt/lxqt-theme/start)
 
 
 ## Qt ([導覽](read/subject/qt))
