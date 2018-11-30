@@ -28,6 +28,7 @@ source_url: '/read/subject/lxqt/lxqt-theme/start.md'
 ## Package
 
 * [lxqt-themes](https://packages.ubuntu.com/bionic/lxqt-themes)
+* [lxqt-system-theme](https://packages.ubuntu.com/bionic/lxqt-system-theme)
 
 
 ## 相關工具
