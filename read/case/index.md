@@ -10,4 +10,4 @@ source_url: '/read/case/index.md'
 
 ## mpv
 
-* [mpv ipc](/note-ubuntu-18.04/read/case/mpv/ipc/)
+* [mpv ipc](/note-ubuntu-18.04/read/case/mpv/ipc.html)
