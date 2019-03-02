@@ -1,7 +1,7 @@
 ---
 layout: page
 title: devilspie toggle window decoration
-date: 2019-02-23 13:39:17 +0800
+date: 2019-03-02 13:39:17 +0800
 description: >
   devilspie toggle window decoration。
 parent:

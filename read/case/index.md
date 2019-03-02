@@ -17,3 +17,8 @@ source_url: '/read/case/index.md'
 ## devilspie
 
 * [toggle window decoration](/note-ubuntu-18.04/read/case/devilspie/toggle-window-decoration.html)
+
+
+## ntp
+
+* [sync](/note-ubuntu-18.04/read/case/ntp/sync.html)
