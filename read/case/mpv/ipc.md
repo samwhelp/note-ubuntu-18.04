@@ -10,6 +10,9 @@ parent:
 source_url: '/read/case/mpv/ipc.md'
 ---
 
+
+
+
 以下內容本來要回覆這篇「[mpv播放影片控制時間問題請教](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=360634#forumpost360634)」，
 
 不過因為我目前登入前可以看到文章列表，登入後無法看到文章列表，
