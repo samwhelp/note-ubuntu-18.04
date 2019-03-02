@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ntp sync
-date: 2019-03-02 13:19:17 +0800
+date: 2019-03-02 12:19:17 +0800
 description: >
   ntp sync。
 parent:

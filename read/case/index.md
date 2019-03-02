@@ -22,3 +22,8 @@ source_url: '/read/case/index.md'
 ## ntp
 
 * [sync](/note-ubuntu-18.04/read/case/ntp/sync.html)
+
+
+## youtube search
+
+* [ex](/note-ubuntu-18.04/read/case/youtube-search/index.html)
