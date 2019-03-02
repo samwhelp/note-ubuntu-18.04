@@ -8,10 +8,13 @@ source_url: '/read/case/index.md'
 ---
 
 
+
+
 ## mpv
 
 * [ipc](/note-ubuntu-18.04/read/case/mpv/ipc.html)
 * [wid](/note-ubuntu-18.04/read/case/mpv/wid.html)
+* [cache](/note-ubuntu-18.04/read/case/mpv/cache.html)
 
 
 ## devilspie
