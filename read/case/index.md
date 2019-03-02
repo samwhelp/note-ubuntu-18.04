@@ -12,3 +12,8 @@ source_url: '/read/case/index.md'
 
 * [ipc](/note-ubuntu-18.04/read/case/mpv/ipc.html)
 * [wid](/note-ubuntu-18.04/read/case/mpv/wid.html)
+
+
+## devilspie
+
+* [toggle window decoration](/note-ubuntu-18.04/read/case/devilspie/toggle-window-decoration.html)
