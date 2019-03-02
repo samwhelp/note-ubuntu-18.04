@@ -27,3 +27,8 @@ source_url: '/read/case/index.md'
 ## youtube search
 
 * [ex](/note-ubuntu-18.04/read/case/youtube-search/index.html)
+
+
+## php office
+
+* [ex](/note-ubuntu-18.04/read/case/php-office/index.html)
