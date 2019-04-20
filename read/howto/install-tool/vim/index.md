@@ -23,3 +23,13 @@ source_url: '/read/howto/install-tool/vim/index.md'
 ``` sh
 $ sudo apt-get install vim
 ```
+
+## Vimrc
+
+* [tool-svim](https://github.com/samwhelp/tool-svim)
+* [tool-mvim](https://github.com/samwhelp/tool-mvim)
+* [tool-lvim](https://github.com/samwhelp/tool-lvim)
+* [tool-ivim](https://github.com/samwhelp/tool-ivim)
+* skel-project-plan/example/[project-vimrc](https://github.com/samwhelp/skel-project-plan/tree/gh-pages/example/project-vimrc)
+
+
