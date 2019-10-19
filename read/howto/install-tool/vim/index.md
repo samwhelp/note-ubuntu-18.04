@@ -32,4 +32,6 @@ $ sudo apt-get install vim
 * [tool-ivim](https://github.com/samwhelp/tool-ivim)
 * skel-project-plan/example/[project-vimrc](https://github.com/samwhelp/skel-project-plan/tree/gh-pages/example/project-vimrc)
 
+## 相關討論
 
+* [關於「vim」便利操作的按鍵設定](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=361366#forumpost361366)
