@@ -53,3 +53,54 @@ source_url: '/index.md'
 * [Ubuntu 問答集](http://samwhelp.github.io/book-ubuntu-qna/)
 * [Ubuntu 17.10 (Artful Aardvark) 探索筆記](https://samwhelp.github.io/note-ubuntu-17.10/)
 * [Ubuntu Basic Skill](https://samwhelp.github.io/book-ubuntu-basic-skill/)
+
+
+
+
+
+## Prototype (Shell Script For Install)
+
+
+### de-basic
+
+* [play-i3](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-basic/play-i3)
+* [play-lxqt](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-basic/play-lxqt)
+* [play-xfce](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-basic/play-xfce)
+* [play-gnome](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-basic/play-gnome)
+
+
+### de-box
+
+* [play-openbox](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-box/play-openbox)
+* [play-icewm](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-box/play-icewm)
+* [play-fluxbox](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-box/play-fluxbox)
+* [play-pekwm](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-box/play-pekwm)
+
+
+### de-lxqt-with-wm
+
+* [lxqt-with-openbox](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-lxqt-with-wm/lxqt-with-openbox)
+
+
+### xsession-wm-xfwm4
+
+* [xsession-wm-xfwm4](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/xsession-wm-xfwm4/xsession-wm-xfwm4)
+* [xsession-wm-xfwm4-with-tint2](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/xsession-wm-xfwm4/xsession-wm-xfwm4-with-tint2)
+* [xsession-wm-xfwm4-with-cairo-dock](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/xsession-wm-xfwm4/xsession-wm-xfwm4-with-cairo-dock)
+
+
+### xsession-wm-metacity
+
+* [xsession-wm-metacity-with-tint2](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/xsession-wm-metacity/metacity/xsession-wm-metacity-with-tint2)
+* [xsession-wm-metacity-with-cairo-dock](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/xsession-wm-metacity/metacity/xsession-wm-metacity-with-cairo-dock)
+
+
+### xsession-wm-marco
+
+* [xsession-wm-marco-with-tint2](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/xsession-wm-metacity/marco/xsession-wm-marco-with-tint2)
+* [xsession-wm-marco-with-cairo-dock](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/xsession-wm-metacity/marco/xsession-wm-marco-with-cairo-dock)
+
+
+### xsession-wm-mutter
+
+* [xsession-wm-mutter-with-tint2](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/xsession-wm-metacity/mutter/xsession-wm-mutter-with-tint2)
