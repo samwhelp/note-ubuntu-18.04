@@ -38,9 +38,9 @@ For example:
 
 ## Manual
 
-* http://openbox.org/wiki/Help:Contents#rc.xml
-* http://openbox.org/wiki/Help:Configuration#Theme
-* http://openbox.org/wiki/Help:Themes
+* [http://openbox.org/wiki/Help:Contents#rc.xml](http://openbox.org/wiki/Help:Contents#rc.xml)
+* [http://openbox.org/wiki/Help:Configuration#Theme](http://openbox.org/wiki/Help:Configuration#Theme)
+* [http://openbox.org/wiki/Help:Themes](http://openbox.org/wiki/Help:Themes)
 
 
 ## How to Find Openbox Theme

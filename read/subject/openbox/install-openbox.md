@@ -36,6 +36,7 @@ sudo apt-get install openbox obconf
 * [http://openbox.org/wiki/Help:Contents](http://openbox.org/wiki/Help:Contents)
 * [http://openbox.org/wiki/Help:Actions](http://openbox.org/wiki/Help:Actions)
 * [http://openbox.org/wiki/Help:Menus](http://openbox.org/wiki/Help:Menus)
+* [http://openbox.org/wiki/Help:Autostart](http://openbox.org/wiki/Help:Autostart)
 
 
 ## Install Script
