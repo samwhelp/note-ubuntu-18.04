@@ -31,6 +31,12 @@ sudo apt-get install openbox obconf
 * [~/.config/openbox/autostart](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-box/play-openbox/config/openbox/autostart)
 
 
+## Manual
+
+* [http://openbox.org/wiki/Help:Actions](http://openbox.org/wiki/Help:Actions)
+* [http://openbox.org/wiki/Help:Menus](http://openbox.org/wiki/Help:Menus)
+
+
 ## Install Script
 
 * [prototype/de-box/play-openbox](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-box/play-openbox) ([keybind](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-box/play-openbox/spec-keybind.md)) ([mousebind](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-box/play-openbox/spec-mousebind.md))
