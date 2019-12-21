@@ -7,7 +7,7 @@ description: >
 parent:
   title: openbox
   url: '/read/subject/openbox'
-source_url: 'read/subject/openbox/set-theme.md'
+source_url: '/read/subject/openbox/set-theme.md'
 ---
 
 
