@@ -75,7 +75,7 @@ source_url: '/index.md'
 
 ### de-box
 
-* [play-openbox](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-box/play-openbox)
+* [play-openbox](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-box/play-openbox) ([keybind](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-box/play-openbox/spec-keybind.md)) ([mousebind](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-box/play-openbox/spec-mousebind.md))
 * [play-icewm](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-box/play-icewm)
 * [play-fluxbox](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-box/play-fluxbox)
 * [play-pekwm](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-box/play-pekwm)
