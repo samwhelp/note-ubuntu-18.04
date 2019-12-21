@@ -33,6 +33,7 @@ sudo apt-get install openbox obconf
 
 ## Manual
 
+* [http://openbox.org/wiki/Help:Contents](http://openbox.org/wiki/Help:Contents)
 * [http://openbox.org/wiki/Help:Actions](http://openbox.org/wiki/Help:Actions)
 * [http://openbox.org/wiki/Help:Menus](http://openbox.org/wiki/Help:Menus)
 
