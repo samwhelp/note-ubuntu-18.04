@@ -14,10 +14,12 @@ source_url: '/read/subject/openbox/index.md'
 ## 安裝
 
 * [如何安裝 openbox](install-openbox)
+* [如何設定 openbox theme](set-theme)
 
 
 ## Manual
 
+* [http://openbox.org/wiki/Help:Contents](http://openbox.org/wiki/Help:Contents)
 * [http://openbox.org/wiki/Help:Actions](http://openbox.org/wiki/Help:Actions)
 * [http://openbox.org/wiki/Help:Menus](http://openbox.org/wiki/Help:Menus)
 * [http://openbox.org/wiki/Help:Themes](http://openbox.org/wiki/Help:Themes)
