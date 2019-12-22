@@ -81,6 +81,11 @@ source_url: '/index.md'
 * [play-pekwm](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-box/play-pekwm)
 
 
+### de-tiling
+
+* [play-bspwm](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-tiling/play-bspwm)
+
+
 ### de-lxqt-with-wm
 
 * [lxqt-with-openbox](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-lxqt-with-wm/lxqt-with-openbox)
