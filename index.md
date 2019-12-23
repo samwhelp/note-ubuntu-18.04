@@ -55,11 +55,10 @@ source_url: '/index.md'
 * [Ubuntu Basic Skill](https://samwhelp.github.io/book-ubuntu-basic-skill/)
 
 
-
-
-## 其他桌面環境
+## 其他「桌面環境(Desktop Environment)」或是「視窗管理器 (Window Manager)」
 
 * [openbox](read/subject/openbox)
+* [bspwm](read/subject/bspwm)
 
 
 ## Prototype (Shell Script For Install)

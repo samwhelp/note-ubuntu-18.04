@@ -3,19 +3,25 @@ layout: page
 title: 主題
 date: 2018-01-21 13:14:16 +0800
 description: >
-  過往問答主題索引。
+  主題索引。
 source_url: '/read/subject/index.md'
 ---
 
 
 ## Ubuntu 18.04 (Bionic Beaver)
 
-* [Release Cdimage](/note-ubuntu-18.04/read/subject/release-cdimage)
+* [Release Cdimage](release-cdimage)
 
 
 ## LXQt
 
-* [lxqt](/note-ubuntu-18.04/read/subject/lxqt)
+* [lxqt](lxqt)
+
+
+## 其他「桌面環境(Desktop Environment)」或是「視窗管理器 (Window Manager)」
+
+* [openbox](openbox)
+* [bspwm](bspwm)
 
 
 ## System Info
