@@ -22,6 +22,7 @@ source_url: '/read/subject/index.md'
 
 * [openbox](openbox)
 * [bspwm](bspwm)
+* [icewm](icewm)
 
 
 ## System Info
