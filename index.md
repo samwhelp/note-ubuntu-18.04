@@ -48,6 +48,11 @@ source_url: '/index.md'
 * [如何安裝 Qt 相關文件 (HTML版)](read/subject/qt/doc/install-qt5-doc-html)
 
 
+## Firefox
+
+* [firefox-portable](read/subject/firefox-portable)
+
+
 ## 相關筆記
 
 * [Ubuntu 問答集](http://samwhelp.github.io/book-ubuntu-qna/)

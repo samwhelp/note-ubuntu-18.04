@@ -34,6 +34,11 @@ source_url: '/read/subject/index.md'
 * [apt](apt)
 
 
+## Firefox
+
+* [firefox-portable](firefox-portable)
+
+
 ## 過往問答主題索引
 
 * [如何執行指令](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=348698#forumpost348698)
