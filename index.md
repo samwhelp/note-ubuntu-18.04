@@ -65,6 +65,7 @@ source_url: '/index.md'
 * [openbox](read/subject/openbox)
 * [bspwm](read/subject/bspwm)
 * [icewm](read/subject/icewm)
+* [fluxbox](read/subject/fluxbox)
 
 
 ## Prototype (Shell Script For Install)
