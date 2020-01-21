@@ -66,7 +66,7 @@ source_url: '/index.md'
 * [bspwm](read/subject/bspwm)
 * [icewm](read/subject/icewm)
 * [fluxbox](read/subject/fluxbox)
-
+* [awesome探索紀錄](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/concept/awesome-wm)
 
 ## Prototype (Shell Script For Install)
 
