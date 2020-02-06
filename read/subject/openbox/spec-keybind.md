@@ -13,10 +13,12 @@ source_url: '/read/subject/openbox/spec-keybind.md'
 
 ## 實作
 
-可以參考我的「[文件導引](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-box/play-openbox/spec-keybind.md)」
+可以參考我的「[文件導引](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-box/play-openbox/spec-keybind.md)」，
 
 或是參考「[rc.xml](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-box/play-openbox/config/openbox/rc.xml)」，請使用「`<keyboard>`」當關鍵字找尋相關的「Section」。
 
+
+或是參考「[快速瀏覽](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/docs/spec/keybind.md)」的文件，來快速瀏覽有那些基本功能綁定。
 
 ## Manual
 

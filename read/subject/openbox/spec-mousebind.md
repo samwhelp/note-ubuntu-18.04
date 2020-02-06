@@ -13,7 +13,7 @@ source_url: '/read/subject/openbox/spec-mousebind.md'
 
 ## 實作
 
-可以參考我的「[文件導引](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-box/play-openbox/spec-mousebind.md)」
+可以參考我的「[文件導引](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-box/play-openbox/spec-mousebind.md)」，
 
 或是參考「[rc.xml](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-box/play-openbox/config/openbox/rc.xml)」，請使用「`<mouse>`」當關鍵字找尋相關的「Section」。
 
