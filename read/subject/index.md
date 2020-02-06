@@ -24,7 +24,9 @@ source_url: '/read/subject/index.md'
 * [bspwm](bspwm)
 * [icewm](icewm)
 * [fluxbox](fluxbox)
-
+* [awesomewm](awesomewm) ([awesome探索紀錄](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/concept/awesome-wm))
+* [xfce](xfce)
+* [i3](i3)
 
 ## System Info
 
