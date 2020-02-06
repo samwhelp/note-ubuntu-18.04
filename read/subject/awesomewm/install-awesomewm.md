@@ -5,7 +5,7 @@ date: 2020-02-06 09:41:08 +0800
 description: >
   install awesomewm
 parent:
-  title: openbox
+  title: awesomewm
   url: '/read/subject/awesomewm'
 source_url: '/read/subject/awesomewm/install-awesomewm.md'
 ---

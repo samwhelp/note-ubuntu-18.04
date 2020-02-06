@@ -5,7 +5,7 @@ date: 2019-12-23 20:14:55 +0800
 description: >
   install bspwm
 parent:
-  title: openbox
+  title: bspwm
   url: '/read/subject/bspwm'
 source_url: '/read/subject/bspwm/install-bspwm.md'
 ---
