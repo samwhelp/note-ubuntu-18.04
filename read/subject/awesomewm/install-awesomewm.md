@@ -36,7 +36,7 @@ sudo apt-get install awesome
 * $ man [awesome-client](https://manpages.ubuntu.com/manpages/bionic/en/man1/awesome-client.1.html)
 
 
-## My Config File
+## Example Config File
 
 * [~/.config/awesome/rc.lua](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/concept/awesome-wm/demo-start/demo-config-awesome-default/rc.lua)
 * [~/.config/awesome/style/awesome_default/rc.lua](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/concept/awesome-wm/demo-start/demo-config-awesome-default/style/awesome_default/rc.lua)
