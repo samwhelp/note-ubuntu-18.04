@@ -15,6 +15,7 @@ source_url: '/read/subject/openbox/index.md'
 
 * [如何安裝 openbox](install-openbox)
 * [如何設定 openbox theme](set-theme)
+* [如何設定 openbox 顯示桌面](openbox-toggle-show-desktop)
 
 
 ## Manual
