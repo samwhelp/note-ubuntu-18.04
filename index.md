@@ -69,6 +69,7 @@ source_url: '/index.md'
 * [awesomewm](read/subject/awesomewm) ([awesome探索紀錄](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/concept/awesome-wm))
 * [xfce](read/subject/xfce)
 * [i3](read/subject/i3)
+* [gnome-shell](read/subject/gnome-shell)
 
 ## Prototype (Shell Script For Install)
 
