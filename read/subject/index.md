@@ -20,11 +20,12 @@ source_url: '/read/subject/index.md'
 
 ## 其他「桌面環境(Desktop Environment)」或是「視窗管理器 (Window Manager)」
 
+* [awesomewm](awesomewm) ([awesome探索紀錄](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/concept/awesome-wm))
 * [openbox](openbox)
+* [spectrwm](spectrwm)
 * [bspwm](bspwm)
 * [icewm](icewm)
 * [fluxbox](fluxbox)
-* [awesomewm](awesomewm) ([awesome探索紀錄](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/concept/awesome-wm))
 * [xfce](xfce)
 * [i3](i3)
 * [gnome-shell](gnome-shell)

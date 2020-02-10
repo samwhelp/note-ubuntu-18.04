@@ -62,11 +62,12 @@ source_url: '/index.md'
 
 ## 其他「桌面環境(Desktop Environment)」或是「視窗管理器 (Window Manager)」
 
+* [awesomewm](read/subject/awesomewm) ([awesome探索紀錄](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/concept/awesome-wm))
 * [openbox](read/subject/openbox)
+* [spectrwm](read/subject/spectrwm)
 * [bspwm](read/subject/bspwm)
 * [icewm](read/subject/icewm)
 * [fluxbox](read/subject/fluxbox)
-* [awesomewm](read/subject/awesomewm) ([awesome探索紀錄](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/concept/awesome-wm))
 * [xfce](read/subject/xfce)
 * [i3](read/subject/i3)
 * [gnome-shell](read/subject/gnome-shell)
@@ -93,7 +94,7 @@ source_url: '/index.md'
 ### de-tiling
 
 * [play-bspwm](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-tiling/play-bspwm)
-
+* [play-spectrwm](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-tiling/play-spectrwm)
 
 ### de-lxqt-with-wm
 
