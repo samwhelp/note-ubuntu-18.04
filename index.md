@@ -79,7 +79,7 @@ source_url: '/index.md'
 
 * [play-i3](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-basic/play-i3)
 * [play-lxqt](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-basic/play-lxqt)
-* [play-xfce](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-basic/play-xfce)
+* [play-xfce](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-basic/play-xfce) ([keybind](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-basic/play-xfce/spec-keybind.md)) ([mousebind](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-basic/play-xfce/spec-mousebind.md))
 * [play-gnome](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-basic/play-gnome)
 
 
@@ -93,8 +93,8 @@ source_url: '/index.md'
 
 ### de-tiling
 
-* [play-bspwm](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-tiling/play-bspwm)
-* [play-spectrwm](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-tiling/play-spectrwm)
+* [play-bspwm](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-tiling/play-bspwm) ([keybind](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-tiling/play-bspwm/spec-keybind.md))
+* [play-spectrwm](https://github.com/samwhelp/play-ubuntu-18.04-plan/tree/master/prototype/de-tiling/play-spectrwm) ([keybind](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-tiling/play-spectrwm/spec-keybind.md)) ([mousebind](https://github.com/samwhelp/play-ubuntu-18.04-plan/blob/master/prototype/de-tiling/play-spectrwm/spec-mousebind.md))
 
 ### de-lxqt-with-wm
 
