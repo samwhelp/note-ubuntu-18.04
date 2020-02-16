@@ -41,7 +41,13 @@ source_url: '/read/subject/awesomewm/awesome-config-implement.md'
 * [https://github.com/PapyElGringo/material-awesome](https://github.com/PapyElGringo/material-awesome)
 
 
-## WillPower3309/
+## WillPower3309/awesome-dotfiles
 
 * [https://github.com/WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles)
 * [https://github.com/WillPower3309/awesome-widgets](https://github.com/WillPower3309/awesome-widgets)
+
+
+## szorfein/dotfiles
+
+* [https://www.reddit.com/user/szorfein/posts](https://www.reddit.com/user/szorfein/posts)
+* [https://github.com/szorfein/dotfiles](https://github.com/szorfein/dotfiles)
