@@ -55,7 +55,7 @@ source_url: '/index.md'
 
 ## 相關筆記
 
-* [Ubuntu 問答集](http://samwhelp.github.io/book-ubuntu-qna/)
+* [Ubuntu 問答集](https://samwhelp.github.io/book-ubuntu-qna/)
 * [Ubuntu 17.10 (Artful Aardvark) 探索筆記](https://samwhelp.github.io/note-ubuntu-17.10/)
 * [Ubuntu Basic Skill](https://samwhelp.github.io/book-ubuntu-basic-skill/)
 
