@@ -57,6 +57,7 @@ source_url: '/index.md'
 
 * [Ubuntu 問答集](https://samwhelp.github.io/book-ubuntu-qna/)
 * [Ubuntu 17.10 (Artful Aardvark) 探索筆記](https://samwhelp.github.io/note-ubuntu-17.10/)
+* [Ubuntu 20.04 (Focal Fossa) 探索筆記](https://samwhelp.github.io/note-ubuntu-20.04/)
 * [Ubuntu Basic Skill](https://samwhelp.github.io/book-ubuntu-basic-skill/)
 
 
