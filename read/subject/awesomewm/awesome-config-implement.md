@@ -51,3 +51,9 @@ source_url: '/read/subject/awesomewm/awesome-config-implement.md'
 
 * [https://www.reddit.com/user/szorfein/posts](https://www.reddit.com/user/szorfein/posts)
 * [https://github.com/szorfein/dotfiles](https://github.com/szorfein/dotfiles)
+
+
+## awesome_horizon
+
+* [https://github.com/arndtphillip/dotfiles](https://github.com/arndtphillip/dotfiles)
+* [https://www.reddit.com/r/unixporn/comments/ga7isf/awesome_horizon/](https://github.com/arndtphillip/dotfiles)
