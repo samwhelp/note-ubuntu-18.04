@@ -26,3 +26,8 @@ source_url: '/read/howto/install-platform/index.md'
 ## php
 
 * [composer](composer)
+
+
+## note
+
+* [xenv 使用筆記](https://samwhelp.github.io/note-about-xenv/)
