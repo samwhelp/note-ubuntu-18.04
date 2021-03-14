@@ -13,6 +13,7 @@ source_url: '/read/howto/install-platform/index.md'
 * [rbenv](rbenv)
 * [pyenv](pyenv)
 * [nodenv](nodenv)
+* [luaenv](luaenv)
 * [goenv](goenv)
 
 
