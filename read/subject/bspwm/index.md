@@ -11,6 +11,11 @@ source_url: '/read/subject/bspwm/index.md'
 ---
 
 
+## 相關筆記
+
+* [bspwm 探索筆記](https://samwhelp.github.io/note-about-bspwm/)
+
+
 ## 安裝
 
 * [如何安裝 bspwm](install-bspwm)
