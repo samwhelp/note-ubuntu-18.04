@@ -11,6 +11,11 @@ source_url: '/read/subject/openbox/index.md'
 ---
 
 
+## 相關筆記
+
+* [openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/)
+
+
 ## 安裝
 
 * [如何安裝 openbox](install-openbox)

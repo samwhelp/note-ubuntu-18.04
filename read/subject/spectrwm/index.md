@@ -11,6 +11,11 @@ source_url: '/read/subject/spectrwm/index.md'
 ---
 
 
+## 相關筆記
+
+* [spectrwm 探索筆記](https://samwhelp.github.io/note-about-spectrwm/)
+
+
 ## 安裝
 
 * [如何安裝 spectrwm](install-spectrwm)

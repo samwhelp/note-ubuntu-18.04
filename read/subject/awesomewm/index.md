@@ -10,6 +10,12 @@ parent:
 source_url: '/read/subject/awesomewm/index.md'
 ---
 
+
+## 相關筆記
+
+* [awesomewm 探索筆記](https://samwhelp.github.io/note-about-awesomewm/)
+
+
 # 官網
 
 * [awesomewm](https://awesomewm.org)

@@ -11,6 +11,11 @@ source_url: '/read/subject/xfce/index.md'
 ---
 
 
+## 相關筆記
+
+* [xfce 探索筆記](https://samwhelp.github.io/note-about-xfce/)
+
+
 ## 安裝
 
 * [如何安裝 xfce](install-xfce)

@@ -11,6 +11,11 @@ source_url: '/read/subject/i3/index.md'
 ---
 
 
+## 相關筆記
+
+* [i3wm 探索筆記](https://samwhelp.github.io/note-about-i3wm/)
+
+
 ## 安裝
 
 * [如何安裝 i3](install-i3)
