@@ -10,6 +10,35 @@ parent:
 source_url: '/read/howto/install/locale/index.md'
 ---
 
+# Locale
+
+## 後記
+
+* Ubuntu 探索筆記 / [locale 切換](https://samwhelp.github.io/note-about-ubuntu/read/adjustment/env/locale.html) / [微調腳本](https://github.com/samwhelp/note-about-ubuntu/tree/gh-pages/_demo/adjustment/env/locale)
+
+後來發現，修改「/etc/default/locale」，只要留下一行就可以切換了
+
+
+預設英文界面，設定「/etc/default/locale」如下：
+
+```
+LANG="en_US.UTF-8"
+```
+
+預設中文界面，設定「/etc/default/locale」如下：
+
+```
+LANG="zh_TW.UTF-8"
+```
+
+
+這樣設定的好處，就是其他的「LC_*」不會被寫死，
+
+然後若使用「LightDM」登入時，可以選擇不同的語系登入，
+
+登入後就會自動切換語系，操作界面也會隨之切換了。
+
+以下是原本文章的論述，沒有刪除，對照參考用。
 
 ## 範例 Script
 
